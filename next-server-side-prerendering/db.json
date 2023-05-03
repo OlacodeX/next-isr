@@ -1,0 +1,57 @@
+{
+  "dashboard":{
+    "posts":5,
+    "likes": 100,
+    "followers": 20,
+    "following": 50
+  },
+    "news": [
+      { 
+        "id": 1, 
+        "title": "Article one", 
+        "description":"This is article one",
+        "category": "sports"
+      }, 
+      { 
+        "id": 2, 
+        "title": "Article two", 
+        "description":"This is article two",
+        "category": "politics"
+      },
+      { 
+        "id": 3, 
+        "title": "Article three", 
+        "description":"This is article three",
+        "category": "sports"
+      },
+      { 
+        "id": 4, 
+        "title": "Article four", 
+        "description":"This is article four",
+        "category": "politics"
+      }
+    ],
+
+    "products":[
+      { 
+        "id": 1, 
+        "title": "product one", 
+        "price": 3000, 
+        "description":"This is product one" 
+      },
+
+      { 
+        "id": 2, 
+        "title": "product two", 
+        "price": 3000, 
+        "description":"This is product two" 
+      },
+
+      { 
+        "id": 3, 
+        "title": "product three", 
+        "price": 1000, 
+        "description":"This is product three" 
+      }
+    ]
+}
